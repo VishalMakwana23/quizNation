@@ -1,12 +1,12 @@
-## QuizK ❔✅
+## Quiz Nation ❔✅
 
-### Imagens do projeto:
-<img src="https://user-images.githubusercontent.com/100402549/230278000-670ffb28-2bd1-44e0-a225-86237765ffde.png" align="center" />
-<img src="https://user-images.githubusercontent.com/100402549/230278193-76828235-7e5e-496f-abdb-960877514b3f.png" align="center" />
+### Project images:
+<img width="1710" alt="Screenshot 2023-12-08 at 10 18 11 PM" src="https://github.com/VishalMakwana23/quizNation/assets/70998696/1d25ebae-76b7-4aad-983c-f4544458e3b0">
+<img width="1710" alt="Screenshot 2023-12-08 at 10 19 23 PM" src="https://github.com/VishalMakwana23/quizNation/assets/70998696/b7602ba9-d30c-4daa-bc9f-b9509e71db07">
 
 &nbsp;
 
-## 💜 Tecnologias/Ferramentas utilizadas
+## 💜 Technologies/Tools used
 
 * React
 * TypeScript
@@ -16,9 +16,9 @@
 
 &nbsp;
 
-### 💜 Link para o projeto online
-* [QuizK](https://quizk.vercel.app/)
+### 💜 Link to the online project
+* [Quiz Nation](https://quiz-nation.netlify.app/)
 
 &nbsp;
 
-<p align="center">Feito com 💜 por KauDev</p>
+<p align="center">Made with 💜 by VishalCodes</p>
